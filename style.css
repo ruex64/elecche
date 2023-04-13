@@ -1,0 +1,37 @@
+body{
+    background-color: #002B5B;
+    font-family: 'Righteous';font-size: 22px;
+    color: #E4DCCF;
+    /* background-image: url('media/hdr.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%; */
+}
+.hdri{
+    width: 1300px;
+    height: 500px;
+    border-radius: 10px;
+}
+
+
+/* navbar start */
+
+
+li {
+  display: inline;
+}
+a {
+  display: inline-block;
+  padding: 8px;
+  background-color: #EA5455;
+  color: #E4DCCF;
+  border-radius: 20px;
+}
+
+/* navbar end */
+
+.hm{
+  width: 1000px;
+  color: #E4DCCF;
+}
